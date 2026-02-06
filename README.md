@@ -5,7 +5,7 @@ Tengo 21 años de edad y actualmente estoy estudiando una carrera universitaria.
 
 Tengo 2 hermanas mayores que yo y mi comida favorita es el espagueti.
 
-links de un video de YouTube:
+## Enlaces de un video de YouTube:
 
 https://youtu.be/YQBBVl5C0iE?si=m_1QLC7R1QC4XkIz 
 
